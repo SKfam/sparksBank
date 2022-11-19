@@ -43,7 +43,7 @@
    
     <main style="margin:1rem; text-align:center;">
       <div class="card" style="width:13rem;margin:1rem;float:left;margin-left:33%;">
-        <img src="images\customers.png" class="card-img-top" alt="customers">
+        <img src="customers.png" class="card-img-top" alt="customers">
         <div class="card-body" style="height:11rem;">
           <h5 class="card-title">View Customers</h5>
           <p class="card-text" style="text-align:center;">View our customers and transfer money</p>
@@ -52,7 +52,7 @@
       </div>
 
       <div class="card" style="width:13.5rem;margin:1rem;float:left;position:relative;">
-        <img src="images\transaction.png" class="card-img-top" alt="history">
+        <img src="transaction.png" class="card-img-top" alt="history">
         <div class="card-body" style="height:11rem;">
           <h5 class="card-title">Transaction history</h5>
           <p class="card-text" style="text-align:center;">View all your transaction history here</p>
